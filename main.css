@@ -1,0 +1,45 @@
+.wrapper{
+  max-width: 350px;
+  margin: 0 auto;
+  color: #666;
+}
+
+h3 {
+  color: #FF3300;
+  text-align: center;
+}
+
+#calc {
+  background: #0066FF;
+  box-sizing: border-box;
+  text-align: center;
+  border: medium solid #ff00ff;
+  border-radius: 40px;
+  padding: 10px 0;
+}
+
+input{
+  background: #FFFFCC;
+  font-family: cursive;
+  box-sizing: border-box;
+  width: 70%;
+  height: 3.5rem;
+  font-size: 1.6rem;
+  text-align: right;
+  padding: 0 0.75rem;
+}
+
+button{
+  font-family: fantasy;
+  font-size: 30px;
+  width: 20%;
+  height: 3.5rem;
+  background: #FFFF00;
+  color: #333;
+  vertical-align: middle;
+  border-color: #fff;
+}
+
+button:hover{
+  background-color: #FFCC33;
+}
